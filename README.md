@@ -8,6 +8,8 @@ Here's what it looks like right now!
 
 ![view of span list](https://github.com/mdoery/react-list/blob/master/react-list-example.png "View of span list")
 
+This code has been refactored in [react-list-vertical](https://github.com/mdoery/react-list-vertical)
+
 ## About
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
