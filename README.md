@@ -1,12 +1,12 @@
-## A wrapping list of divs
+## A wrapping list of spans
 
-This displays a clean looking "list" of divs. Each div contains a name. The div has padding to create a little box around each name, a margin to separate it from the other divs, and stylish rounded borders.
+This displays a clean looking "list" of spans. Each span contains a name. The span has padding to create a little box around each name, a margin to separate it from the other spans, and stylish rounded borders.
 
-When the page is resized, the divs wrap to the next row, if needed.
+When the page is resized, the spans wrap to the next row, if needed.
 
 Here's what it looks like right now!
 
-![view of div list](https://github.com/mdoery/react-list/blob/master/react-list-example.png "View of div list")
+![view of span list](https://github.com/mdoery/react-list/blob/master/react-list-example.png "View of span list")
 
 ## About
 
